@@ -24,7 +24,6 @@ The admin panel helps manage book inventory, categories, and customer orders.
 | Frontend | HTML, CSS, Bootstrap |
 | Backend | ASP.NET MVC 5 (C#) |
 | Database | SQL Server |
-| ORM | Entity Framework |
 | IDE | Visual Studio 2022 |
 
 
